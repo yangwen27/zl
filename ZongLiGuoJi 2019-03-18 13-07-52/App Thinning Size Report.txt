@@ -1,0 +1,71 @@
+
+App Thinning Size Report for All Variants of ZongLiGuoJi
+
+Variant: ZongLiGuoJi-3DAABFEF-2D2C-4647-8F31-9D75D5D6C069.ipa
+Supported variant descriptors: [device: iPad7,5, os-version: 11], [device: iPad4,2, os-version: 9], [device: iPad7,4, os-version: 10], [device: iPad4,3, os-version: 9], [device: iPad4,5, os-version: 9], [device: iPad6,8, os-version: 9], [device: iPad6,3, os-version: 9], [device: iPad5,3, os-version: 9], [device: iPad7,6, os-version: 11], [device: iPad5,1, os-version: 9], [device: iPad4,9, os-version: 9], [device: iPad7,2, os-version: 10], [device: iPad6,7, os-version: 9], [device: iPad6,12, os-version: 11], [device: iPad5,4, os-version: 9], [device: iPad7,1, os-version: 10], [device: iPad5,2, os-version: 9], [device: iPad7,2, os-version: 11], [device: iPad6,11, os-version: 11], [device: iPad4,6, os-version: 9], [device: iPad6,4, os-version: 9], [device: iPad7,3, os-version: 11], [device: iPad6,11, os-version: 10], [device: iPad4,8, os-version: 9], [device: iPad4,7, os-version: 9], [device: iPad7,3, os-version: 10], [device: iPad6,12, os-version: 10], [device: iPad7,4, os-version: 11], [device: iPad4,1, os-version: 9], [device: iPad4,4, os-version: 9], and [device: iPad7,1, os-version: 11]
+App + On Demand Resources size: 11.9 MB compressed, 34.6 MB uncompressed
+App size: 11.9 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-4FCE8694-7D54-40B1-9210-0AEA3DFE13FB.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 10], [device: iPhone10,1, os-version: 11], [device: iPhone7,2, os-version: 9], [device: iPhone8,1, os-version: 9], [device: iPhone10,4, os-version: 11], [device: iPhone8,4, os-version: 9], [device: iPhone9,3, os-version: 11], [device: iPhone9,1, os-version: 10], [device: iPhone9,1, os-version: 11], [device: iPod7,1, os-version: 9], [device: iPhone6,1, os-version: 9], and [device: iPhone6,2, os-version: 9]
+App + On Demand Resources size: 11.9 MB compressed, 34.6 MB uncompressed
+App size: 11.9 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-6680B784-C3C4-4D49-9705-23EE227A2F32.ipa
+Supported variant descriptors: [device: iPad2,7, os-version: 9], [device: iPad2,2, os-version: 9], [device: iPad2,6, os-version: 9], [device: iPad2,1, os-version: 9], [device: iPad2,4, os-version: 9], [device: iPad2,5, os-version: 9], and [device: iPad2,3, os-version: 9]
+App + On Demand Resources size: 12.1 MB compressed, 34.6 MB uncompressed
+App size: 12.1 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-6B02DF47-FAA0-4110-96CF-F4223F38E035.ipa
+Supported variant descriptors: [device: iPad8,8, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad8,3, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad5,2, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad8,7, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad8,1, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad8,6, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad8,2, os-version: 12], [device: iPad4,1, os-version: 12], [device: iPad7,3, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad8,5, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad6,3, os-version: 12], [device: iPad6,12, os-version: 12], [device: iPad7,6, os-version: 12], and [device: iPad8,4, os-version: 12]
+App + On Demand Resources size: 9.7 MB compressed, 34.6 MB uncompressed
+App size: 9.7 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-764F3FFB-DA2D-4B35-BD77-5C0BC5B81992.ipa
+Supported variant descriptors: [device: iPad3,4, os-version: 9], [device: iPad3,5, os-version: 9], [device: iPad3,6, os-version: 9], [device: iPad3,3, os-version: 9], [device: iPad3,2, os-version: 9], and [device: iPad3,1, os-version: 9]
+App + On Demand Resources size: 12.1 MB compressed, 34.6 MB uncompressed
+App size: 12.1 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-A45934DD-6A27-4ABE-8A7B-AEC1F8F2D0A3.ipa
+Supported variant descriptors: [device: iPhone9,2, os-version: 12], [device: iPhone11,6, os-version: 12], [device: iPhone8,2, os-version: 12], [device: iPhone10,6, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone11,2, os-version: 12], and [device: iPhone11,4, os-version: 12]
+App + On Demand Resources size: 10 MB compressed, 34.6 MB uncompressed
+App size: 10 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-C136B242-F94A-4340-A24F-A0D44BE3C646.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12], [device: iPod7,1, os-version: 12], [device: iPhone10,1, os-version: 12], [device: iPhone6,1, os-version: 12], [device: iPhone7,2, os-version: 12], [device: iPhone9,3, os-version: 12], [device: iPhone11,8, os-version: 12], [device: iPhone8,4, os-version: 12], [device: iPhone8,1, os-version: 12], [device: iPhone6,2, os-version: 12], and [device: iPhone10,4, os-version: 12]
+App + On Demand Resources size: 9.7 MB compressed, 34.6 MB uncompressed
+App size: 9.7 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-D4B4DD42-EFB1-4385-9AD1-EF45DF6B66CD.ipa
+Supported variant descriptors: [device: iPod5,1, os-version: 9], [device: iPhone5,3, os-version: 9], [device: iPhone5,1, os-version: 9], [device: iPhone4,1, os-version: 9], [device: iPhone5,2, os-version: 9], and [device: iPhone5,4, os-version: 9]
+App + On Demand Resources size: 12.1 MB compressed, 34.6 MB uncompressed
+App size: 12.1 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi-E53821A9-F81E-4970-8FA1-E45C4E660739.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 11], [device: iPhone10,3, os-version: 11], [device: iPhone7,1, os-version: 9], [device: iPhone10,6, os-version: 11], [device: iPhone9,4, os-version: 10], [device: iPhone9,2, os-version: 11], [device: iPhone9,4, os-version: 11], [device: iPhone9,2, os-version: 10], [device: iPhone10,2, os-version: 11], and [device: iPhone8,2, os-version: 9]
+App + On Demand Resources size: 12.2 MB compressed, 34.6 MB uncompressed
+App size: 12.2 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ZongLiGuoJi.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 22.5 MB compressed, 34.6 MB uncompressed
+App size: 22.5 MB compressed, 34.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
